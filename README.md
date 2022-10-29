@@ -9,7 +9,7 @@
 
 **Roles:**
 - Wilson: Backend
-- Victor: Ssguridad
+- Victor: seguridad
 - Juan José: Base de datos
 - Juan Diego: Visualización/Front
 - Daniel: Scrum Master/Backend
